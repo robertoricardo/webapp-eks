@@ -3,7 +3,15 @@
 ### Instâncias
 
 JENKINS SERVER
-t2.micro
+  Configurações:
+  t2.micro
+  EBS - 15GiB
+
+
+Atualizando o sistema
+```
+sudo apt update && sudo apt upgrade
+```
 .
 
 #### Link para o vídeo do projeto
