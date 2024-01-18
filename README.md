@@ -10,6 +10,7 @@ Configurações:
 
 Security Group
 - Inbound Rules
+
    Type: Custom TCP
    Port Range: 8080
    Source: 0.0.0.0/0
