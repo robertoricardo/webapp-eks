@@ -2,6 +2,6 @@
 
 ### Instâncias
 
-    - JENKINS SERVER
-        - t2.micro
+JENKINS SERVER
+t2.micro
 .
