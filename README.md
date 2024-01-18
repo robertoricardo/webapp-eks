@@ -3,9 +3,9 @@
 ### Instâncias
 
 JENKINS SERVER
-  Configurações:
-  t2.micro
-  EBS - 15GiB
+Configurações:
+- t2.micro
+- EBS - 15GiB
 
 
 Atualizando o sistema
